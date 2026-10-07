@@ -20,7 +20,7 @@ Use this when a traveler asks to move to an earlier or later flight on their tra
 ## Steps
 1. Confirm the traveler's identity and booking number.
 2. Check seat availability on the requested flight.
-3. Explain the $75 fee before making the change.
+3. Explain the $50 fee before making the change.
 4. Process the change and send the updated itinerary.
 
 ## Related articles
